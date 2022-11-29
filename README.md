@@ -6,4 +6,4 @@ GET-POST-PUT-PATCH-DELETE işlemleri kullanılarak gelen responslar test edilmi�
 
 Newman ile beraber test işlemi gerçekleştirildi...
 
-<img width="344" alt="logo" src="https://user-images.githubusercontent.com/100466472/204119786-6fa816a1-7155-4671-8d42-5861cf8e0031.png">
+<img width="344" alt="logo" src="https://user-images.githubusercontent.com/100466472/204489415-52ffdbc8-7e91-4d91-b733-17fa47f3f7f5.png">
